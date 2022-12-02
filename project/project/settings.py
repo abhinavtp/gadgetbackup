@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'admmin',
     'customer',
     'service_engineers',
-    'shop'
+    'shop',
+    'logins'
 ]
 
 MIDDLEWARE = [
